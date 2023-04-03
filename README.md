@@ -12,11 +12,11 @@ I am also building a fully on-chain multiplayer strategy game where players will
 Keeping track of the services i deployed and my npm packages.
 #### API services
 
-![live](https://tinyshields.dev/live?label=SSO%20API&url=https://sso.dlab.ovh/api/version&query=version&color=green)
+[![live](https://tinyshields.dev/live?label=SSO%20API&url=https://sso.dlab.ovh/api/version&query=version&color=green)](https://sso.dlab.ovh/api)
 
-![live](https://tinyshields.dev/live?label=NFT%20Metadata%20API&url=https://metadata.dlab.ovh/api/version&query=version&color=green)
+[![live](https://tinyshields.dev/live?label=NFT%20Metadata%20API&url=https://metadata.dlab.ovh/api/version&query=version&color=green)](https://metadata.dlab.ovh/api)
 
-![live](https://tinyshields.dev/live?label=Words-Tell-Art%20API&url=https://api.wordstell.art/api/version&query=version&color=green)
+[![live](https://tinyshields.dev/live?label=Words-Tell-Art%20API&url=https://api.wordstell.art/api/version&query=version&color=green)](https://api.wordstell.art/api)
 
 
 ## DLab SDKs [@d-lab](https://www.npmjs.com/settings/d-lab/packages)
