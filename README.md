@@ -1,5 +1,15 @@
-## Release Dashboard
+## Hi there :wave:
 
+I'm a french software engineer building stuff on the web. Mostly interested in Web3 and AI products (yeah all trendy :see_no_evil:).
+
+I am currently releasing [Words Tell Art](https://words-tell.art), an innovative NFT collection using AI for its burn to redeem mechanism.
+
+
+On the backstage i am working on a new decentralized game distribution platform :video_game: with a simple purpose, give back ownership to players on the titles they purchase.
+I am also building a fully on-chain multiplayer strategy game where players will build their armies of creature before conquering the whole blockchain :space_invader::collision:.
+
+## Release Dashboard
+Keeping track of the services i deployed and my npm packages.
 #### API services
 
 ![live](https://tinyshields.dev/live?label=SSO%20API&url=https://sso.dlab.ovh/api/version&query=version&color=green)
