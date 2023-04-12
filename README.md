@@ -2,7 +2,7 @@
 
 I'm a french software engineer building stuff on the web. Mostly interested in Web3 and AI products (yeah all trendy :see_no_evil:).
 
-I am currently releasing [Words Tell Art](https://words-tell.art), an innovative NFT collection using AI for its burn to redeem mechanism.
+I am currently releasing [Words Tell Art](https://wordstell.art), an innovative NFT collection using AI for its burn to redeem mechanism.
 
 
 On the backstage i am working on a new decentralized game distribution platform :video_game: with a simple purpose, give back ownership to players on the titles they purchase.
