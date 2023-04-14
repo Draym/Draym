@@ -5,8 +5,8 @@ I'm a french software engineer building stuff on the web. Mostly interested in W
 I am currently releasing [Words Tell Art](https://wordstell.art), an innovative NFT collection using AI for its burn to redeem mechanism.
 
 
-On the backstage i am working on a new decentralized game distribution platform :video_game: with a simple purpose, give back ownership to players on the titles they purchase.
-I am also building a fully on-chain multiplayer strategy game where players will build their armies of creature before conquering the whole blockchain :space_invader::collision:.
+On the backstage i am working on a new decentralized game distribution [platform](https://github.com/padium) :video_game: with a simple purpose, give back ownership to players on the titles they purchase.
+I am also building a fully on-chain multiplayer strategy [game](https://github.com/Draym/blackhole-evm) where players will build their armies of creature before conquering the whole blockchain :space_invader::collision:.
 
 ## Release Dashboard
 Keeping track of the services i deployed and my npm packages.
