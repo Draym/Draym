@@ -2,14 +2,23 @@
 
 I'm a french software engineer building stuff on the web. Mostly interested in Web3 and AI products (yeah all trendy :see_no_evil:).
 
-I am currently releasing [Words Tell Art](https://wordstell.art), an innovative NFT collection using AI for its burn to redeem mechanism.
-
-
+[Words Tell Art](https://wordstell.art) 🌠, an innovative NFT collection using AI for its burn to redeem mechanism, is completed and now live on mainnet.
+<br/>
+<br/>
+👋 Currently working on a brand new project on [ImmutableX](https://docs.x.immutable.com/reference/), it is a community dashboard that packup every IMX functionalities and offer a great entry-point for developers and non-alike on IMX. Create you collections and mint your NFTs using a proper UI on [IMX Dashboard](https://imx.dlab.ovh/).
+<br/>
+<br/>
 On the backstage i am working on a new decentralized game distribution [platform](https://github.com/padium) :video_game: with a simple purpose, give back ownership to players on the titles they purchase.
 I am also building a fully on-chain multiplayer strategy [game](https://github.com/Draym/blackhole-evm) where players will build their armies of creature before conquering the whole blockchain :space_invader::collision:.
 
 ## Release Dashboard
 Keeping track of the services i deployed and my npm packages.
+
+#### Websites
+🎨 [Words Tell Art](https://wordstell.art)
+
+🧰 [IMX Dashboard](https://imx.dlab.ovh/)
+
 #### API services
 
 [![live](https://tinyshields.dev/live?label=SSO%20API&url=https://sso.dlab.ovh/api/version&query=version&color=green)](https://sso.dlab.ovh/api)
