@@ -2,10 +2,10 @@
 
 I'm a french software engineer building stuff on the web. Mostly interested in Web3 and AI products (yeah all trendy :see_no_evil:).
 
-[Words Tell Art](https://wordstell.art) 🌠, an innovative NFT collection using AI for its burn to redeem mechanism, is completed and now live on mainnet.
+[Words Tell Art](https://wordstell.art) 🌠 an innovative NFT collection using AI for its burn to redeem mechanism, is completed and now live on mainnet.
 <br/>
 <br/>
-👋 Currently working on a brand new project on [ImmutableX](https://docs.x.immutable.com/reference/), it is a community dashboard that packup every IMX functionalities and offer a great entry-point for newbies and develoeprs alike on IMX. Create you collections and mint your NFTs using a proper UI on [IMX Dashboard](https://imx.dlab.ovh/).
+👋 Currently working on a brand new project on [ImmutableX](https://docs.x.immutable.com/reference/), it is a community dashboard that packup every IMX functionalities and offer a great entry-point for newbies and developers on IMX. Create you collections and mint NFTs using a proper UI on [IMX Dashboard](https://imx.dlab.ovh/).
 <br/>
 <br/>
 On the backstage i am working on a new decentralized game distribution [platform](https://github.com/padium) :video_game: with a simple purpose, give back ownership to players on the titles they purchase.
