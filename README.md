@@ -8,11 +8,11 @@ I'm a french software engineer building stuff on the web. Mostly interested in W
 👋 Currently working on a brand new project on [ImmutableX](https://docs.x.immutable.com/reference/), it is a community dashboard that packup every IMX functionalities and offer a great entry-point for newbies and developers on IMX. Create you collections and mint NFTs using a proper UI on [IMX Dashboard](https://imx.dlab.ovh/).
 <br/>
 <br/>
-On the backstage i am working on a new decentralized game distribution [platform](https://github.com/padium) :video_game: with a simple purpose, give back ownership to players on the titles they purchase.
+In the backstage i am working on a new decentralized game distribution [platform](https://github.com/padium) :video_game: with a simple purpose, give back ownership to players on the titles they purchase.
 I am also building a fully on-chain multiplayer strategy [game](https://github.com/Draym/blackhole-evm) where players will build their armies of creature before conquering the whole blockchain :space_invader::collision:.
 
 ## Release Dashboard
-Keeping track of the services i deployed and my npm packages.
+Keeping track of my deployed services and npm packages.
 
 #### Websites
 🎨 [Words Tell Art](https://wordstell.art)
