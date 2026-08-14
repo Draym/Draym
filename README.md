@@ -11,6 +11,7 @@ I'm a french software engineer building stuff on blockchain.
 <br/>
 <br/>
 In the backstage i am working on a new P2E blockchain game :video_game: combining roguelike & tower defence features.
+
 Previous attempts on blockchain games: multiplayer strategy game [Blackhole](https://github.com/Draym/blackhole-evm) and innovative royal battle gameplay [Jajanken](https://github.com/Draym/jajanken-coliseum)
 
 ## Release Dashboard
