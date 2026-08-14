@@ -1,17 +1,17 @@
 ## Hi there :wave:
 
-I'm a french software engineer building stuff on the web. Mostly interested in Web3 and AI products (yeah all trendy :see_no_evil:).
+I'm a french software engineer building stuff on blockchain.
 <br/>
 
-🔥 Currently working on [Mipack](https://mipack.io/), a hub bridging the digital and physical worlds for TCG collectors. 🎉 now live on [Base](https://www.base.org/).
+🔥 Currently working on [Mipack](https://mipack.io/), a collector hub for digitalize collectibles through RWA; now live on [Base](https://www.base.org/) 🎉
 
 <br/>
 
 [Words Tell Art](https://github.com/words-tell-art) 🌠 an innovative NFT collection using AI for its burn to redeem mechanism, is live on Ethereum.
 <br/>
 <br/>
-In the backstage i am working on a new decentralized game distribution [platform](https://github.com/padium) :video_game: with a simple purpose, give back ownership to players on the titles they purchase.
-I am also building a fully on-chain multiplayer strategy [game](https://github.com/Draym/blackhole-evm) where players will build their armies of creature before conquering the whole blockchain :space_invader::collision:.
+In the backstage i am working on a new P2E blockchain game :video_game: combining roguelike & tower defence features.
+Previous attempts on blockchain games: multiplayer strategy game [Blackhole](https://github.com/Draym/blackhole-evm) and innovative royal battle gameplay [Jajanken](https://github.com/Draym/jajanken-coliseum)
 
 ## Release Dashboard
 Keeping track of my deployed services and npm packages.
