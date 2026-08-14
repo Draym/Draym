@@ -7,12 +7,11 @@ I'm a french software engineer building stuff on blockchain.
 
 <br/>
 
-[Words Tell Art](https://github.com/words-tell-art) 🌠 an innovative NFT collection using AI for its burn to redeem mechanism, is live on Ethereum.
-<br/>
-<br/>
 In the backstage i am working on a new P2E blockchain game :video_game: combining roguelike & tower defence features.
 
 Previous attempts on blockchain games: multiplayer strategy game [Blackhole](https://github.com/Draym/blackhole-evm) and innovative royal battle gameplay [Jajanken](https://github.com/Draym/jajanken-coliseum)
+
+[Words Tell Art](https://github.com/words-tell-art) 🌠 an innovative NFT collection using AI for its burn to redeem mechanism, is live on Ethereum.
 
 ## Release Dashboard
 Keeping track of my deployed services and npm packages.
